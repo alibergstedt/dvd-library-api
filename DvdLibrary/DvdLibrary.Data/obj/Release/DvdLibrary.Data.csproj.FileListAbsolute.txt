@@ -1,0 +1,14 @@
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\DvdLibrary.Data.dll.config
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\DvdLibrary.Data.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\DvdLibrary.Data.pdb
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\Dapper.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\DvdLibrary.Models.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\EntityFramework.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\DvdLibrary.Models.pdb
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\Dapper.xml
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\EntityFramework.xml
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\obj\Release\DvdLibrary.Data.csprojResolveAssemblyReference.cache
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\obj\Release\DvdLibrary.Data.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Data\obj\Release\DvdLibrary.Data.pdb

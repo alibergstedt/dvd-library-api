@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkY3pG/zuPUKVK7S/bdznLgAAAAACAAAAAAAQZgAAAAEAACAAAADE/5NcEb+EIewHMdA6SvBRzzqUvuNwWNFfwq4O0X3E8wAAAAAOgAAAAAIAACAAAABsNrLecsXscA0C2f1qsBUrPGZKUwNuI5Lof5RVPQEE0yAAAABSH0uYxtROaAjWVBklLeGMHRqhk3SYCY3BgvoWemKyD0AAAAAa0UK3l5rh9O69wTPbzKArIO1hI7XERwXinFPBuBj/rn2Ziga4+rGotSM5aoVZYdXwVMGSiScF7KQvj1dMj+RK</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.allisonbergstedt.com/projects/dvd-library-web-api</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

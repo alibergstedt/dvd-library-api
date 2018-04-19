@@ -1,0 +1,10 @@
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\DvdLibrary.Models.dll.config
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\DvdLibrary.Models.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\DvdLibrary.Models.pdb
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\EntityFramework.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\EntityFramework.xml
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\obj\Release\DvdLibrary.Models.csprojResolveAssemblyReference.cache
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\obj\Release\DvdLibrary.Models.dll
+C:\Users\bergs\swcguild\BitBucket\allison-bergstedt-individual-work\DVD-Library-Database-Web-API\DvdLibrary\DvdLibrary.Models\obj\Release\DvdLibrary.Models.pdb
